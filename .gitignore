@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.png
+report_output.txt
+test_*.py
+
+# Ignore everything in home directory except project files
+/*
+!rsa_project.py
+!generate_report.py
+!create_plots.py
+!README.md
+!REPORT.md
+!requirements.txt
+!.gitignore
+
