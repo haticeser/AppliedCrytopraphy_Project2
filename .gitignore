@@ -34,4 +34,5 @@ test_*.py
 !REPORT.md
 !requirements.txt
 !.gitignore
+!PROJE_ACIKLAMASI.md
 
